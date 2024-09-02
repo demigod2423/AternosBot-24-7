@@ -8,7 +8,7 @@ const bot = mineflayer.createBot({
 })
 
 bot.on('spawn', () => {
-  bot.chat('/register contraseña')  
+  bot.chat('/login iamproplayer')  
 });
 
 //NO TOCAR/// DO NOT TOUCH
